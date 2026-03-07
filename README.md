@@ -151,7 +151,7 @@ portfolio/
 
 | Trajetória | Contato |
 |:---:|:---:|
-| ![Trajetória](<img width="1920" height="998" alt="image" src="https://github.com/user-attachments/assets/b259aee2-372d-4509-8834-89cebf3b8ce5" />
+| ![Trajetória](<img width="1920" height="998" alt="image" src="https://github.com/user-attachments/assets/b259aee2-372d-4509-8834-89cebf3b8ce5" />)
  />
 ) | ![Contato](<img width="1920" height="998" alt="image" src="https://github.com/user-attachments/assets/f46a557b-bc51-49df-be58-3171240eb552" />
 ) |
