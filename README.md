@@ -140,21 +140,15 @@ portfolio/
 ```
 
 ---
-
 ## 🎥 Preview
 
 | Hero | Projetos |
 |:---:|:---:|
-| ![Hero](<img width="1920" height="998" alt="image" src="https://github.com/user-attachments/assets/ce7a3c53-f5bd-4b05-b32b-2198026a5e3d" />
-| ![Projetos](<img width="1920" height="998" alt="image" src="https://github.com/user-attachments/assets/4c28a118-ebe6-4d78-9793-01d7ee7837af" />
-) |
+| ![Hero](https://github.com/user-attachments/assets/ce7a3c53-f5bd-4b05-b32b-2198026a5e3d) | ![Projetos](https://github.com/user-attachments/assets/4c28a118-ebe6-4d78-9793-01d7ee7837af) |
 
 | Trajetória | Contato |
 |:---:|:---:|
-| ![Trajetória](<img width="1920" height="998" alt="image" src="https://github.com/user-attachments/assets/b259aee2-372d-4509-8834-89cebf3b8ce5" />)
- />
-) | ![Contato](<img width="1920" height="998" alt="image" src="https://github.com/user-attachments/assets/f46a557b-bc51-49df-be58-3171240eb552" />
-) |
+| ![Trajetória](https://github.com/user-attachments/assets/b259aee2-372d-4509-8834-89cebf3b8ce5) | ![Contato](https://github.com/user-attachments/assets/f46a557b-bc51-49df-be58-3171240eb552) |
 
 ---
 
