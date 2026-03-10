@@ -21,7 +21,7 @@
 ## 🚀 Status
 
 [![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mmoreira41.vercel.app)
-![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mmoreira41/portfolio?style=for-the-badge&logo=clockify&color=c8f04a)
@@ -30,13 +30,13 @@
 
 ## 🌐 Acesse
 
-**[→ mmoreira41.vercel.app](portfolio-sand-ten-35.vercel.app)**
+**[→ mmoreira41.vercel.app](https://mmoreira41.vercel.app)**
 
 ---
 
 ## ✦ O que tem aqui dentro
 
-Não é um portfólio de lista de projetos.  
+Não é um portfólio de lista de projetos.
 É uma apresentação de como eu penso, construo e entrego.
 
 | Seção | O que você encontra |
@@ -52,17 +52,15 @@ Não é um portfólio de lista de projetos.
 ## 🛠 Stack
 
 ### Interface
-- **Next.js 15** — App Router, Server Components
+- **Next.js 16** — App Router, Server Components
 - **TypeScript** — strict mode
 - **Tailwind CSS** — estilização utilitária
-- **Framer Motion** — animações e scroll effects
-- **shadcn/ui** — componentes base
 
 ### Dados & Integrações
 - **GitHub API** — projetos, commits, linguagens em tempo real
-- **Claude API** — análise de README e geração de descrições
+- **Claude API (Haiku)** — análise de README e geração de descrições
 - **EmailJS** — formulário de contato 100% frontend
-- **React Hook Form + Zod** — validação de formulário
+- **Zod** — validação de dados
 
 ### Deploy
 - **Vercel** — CI/CD automático a cada push
@@ -80,7 +78,7 @@ cd portfolio
 npm install
 
 # Configure as variáveis de ambiente
-cp .env.example .env.local
+cp .env.local.example .env.local
 # Edite .env.local com suas chaves
 
 # Rode
@@ -122,24 +120,22 @@ portfolio/
 │   └── projetos/[slug]/        # Página de detalhe por projeto
 │       └── page.tsx            # Server Component — GitHub API + Claude API
 ├── components/
-│   ├── sections/
-│   │   ├── Hero.tsx            # Headline editorial animada
-│   │   ├── Projects.tsx        # Lista com hover preview
-│   │   ├── About.tsx           # Toggle PT · EN
-│   │   ├── Experience.tsx      # Trajetória em tabela editorial
-│   │   └── Contact.tsx         # Formulário no verde
-│   └── ui/                     # Componentes reutilizáveis
+│   └── sections/
+│       ├── Hero.jsx            # Headline editorial animada
+│       ├── Projects.tsx        # Lista com hover preview
+│       ├── About.tsx           # Toggle PT · EN
+│       ├── Trajectory.tsx      # Trajetória em tabela editorial
+│       └── Contact.tsx         # Formulário no verde
 ├── lib/
 │   ├── github.ts               # Fetch GitHub API (server-side)
-│   └── ai-analysis.ts          # Análise de README via Claude
-├── data/
 │   ├── projects.ts             # Dados base dos projetos
-│   └── experiences.ts          # Trajetória profissional
+│   └── ai-analysis.ts          # Análise de README via Claude
 └── types/
     └── github.ts               # Tipagem da GitHub API
 ```
 
 ---
+
 ## 🎥 Preview
 
 | Hero | Projetos |
