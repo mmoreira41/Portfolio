@@ -1,4 +1,4 @@
-# Miguel Moreira — Portfólio Profissional
+# Miguel Moreira | Portfólio Profissional
 
 > Construo produtos digitais do zero. Do visual ao sistema.
 
@@ -6,7 +6,7 @@
   <tr>
     <td width="720px">
       <div align="justify">
-        Este repositório é o código do meu portfólio pessoal — construído com a mesma seriedade com que desenvolvo produtos reais. Não é um template. Cada decisão de design, cada linha de código e cada animação foi pensada para representar quem eu sou como desenvolvedor e criador. <b>Design que vira sistema. Ideia que vira produto.</b>
+        Este repositório é o código do meu portfólio pessoal - construído com a mesma seriedade com que desenvolvo produtos reais. Não é um template. Cada decisão de design, cada linha de código e cada animação foi pensada para representar quem eu sou como desenvolvedor e criador. <b>Design que vira sistema. Ideia que vira produto.</b>
       </div>
     </td>
     <td align="center">
